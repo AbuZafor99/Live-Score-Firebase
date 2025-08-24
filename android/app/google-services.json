@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956615942287",
+    "project_id": "live-score-fb4e5",
+    "storage_bucket": "live-score-fb4e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956615942287:android:b3c338eae4e5ed265c50fa",
+        "android_client_info": {
+          "package_name": "com.ostad_batch_ten.firebase_demo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8mE7YMFW7YrkpkK7J3SZjHofk_AHnZc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
